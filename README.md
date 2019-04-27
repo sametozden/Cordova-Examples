@@ -2,11 +2,11 @@
 
 This application contents only for Android some Cordova examples listed below. 
 
-- Barcode reader
-- Push notification to phone from web site (with FCM)
+- Barcode reader and get barcode value
+- Push notification to phone from web site (with Firebase Cloud Messaging)
 - Take a photo with camera and save to folder
 - SQLite Example (create database, add, edit and delete records)
-- Vibration
+- Vibration and create path
 - Splash Screen
 
 ## Requirements
