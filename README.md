@@ -1,4 +1,4 @@
-# Cordova-Examples
+# Cordova Examples
 
 This application contents only for Android some Cordova examples listed below. 
 
